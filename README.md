@@ -1,2 +1,2 @@
 # OpenCV
-Some basic practive with the OpenCV Python library.
+Some basic practice with the OpenCV Python library.
